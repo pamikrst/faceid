@@ -20,7 +20,7 @@ export async function anylizeAction(prevState, formData) {
                 "<p>Harap Tambahkan API KEY nya dulu</p>"
         }
     }
-
+    // UBAH MODEL AI-NYA
     const model = "openrouter/free"
 
     const instruction = `
